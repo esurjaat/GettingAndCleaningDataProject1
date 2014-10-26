@@ -1,0 +1,95 @@
+Independent Variables
+
+ID: The Subject's ID Number.  Identifies the performers of the given exercises
+        and who's results are measured by the measurement variables
+Exercise:  The given task to the subject to perform
+
+
+Dependent Variables:
+
+        Components:
+        -Variables that begin with t denote time measurements
+
+        -Variables that begin with f denote frequency measurements
+
+        -"Body" denotes the measurements attributed to the body
+
+        -"Gravity" denotes the measurements attributed to gravity
+
+        - "Acc" denotes acceleration measurements
+        
+        - "Mag" denotes magnitude measurements
+
+        -X,Y & Z: Refers to the axis of direction
+
+        -Mean: The mean measurement
+
+        -Std: The standard deviation
+
+        List:
+        tBodyAcc_XMean,
+        tBodyAcc_YMean,
+        tBodyAcc_ZMean, 
+        tBodyAcc_XStd, 
+        tBodyAcc_YStd,
+        tBodyAcc_ZStd,
+        tGravityAcc_XMean, 
+        tGravityAcc_YMean, 
+        tGravityAcc_ZMean,
+        tGravityAcc_XStd,
+        tGravityAcc_YStd, 
+        tGravityAcc_ZStd, 
+        tBodyAccJerk_XMean,
+        tBodyAccJerk_YMean, 
+        tBodyAccJerk_ZMean,
+        tBodyAccJerk_XStd,
+        tBodyAccJerk_YStd,
+        tBodyAccJerk_ZStd,
+        tBodyGyro_XMean,
+        tBodyGyro_YMean, 
+        tBodyGyro_ZMean,
+        tBodyGyro_XStd, 
+        tBodyGyro_YStd, 
+        tBodyGyro_ZStd,
+        tBodyGyroJerk_XMean, 
+        tBodyGyroJerk_YMean,
+        tBodyGyroJerk_ZMean, 
+        tBodyGyroJerk_XStd, 
+        tBodyGyroJerk_YStd, 
+        tBodyGyroJerk_ZStd, 
+        tBodyAccMag_Mean, 
+        tBodyAccMag_Std,
+        tGravityAccMag_Mean,
+        tGravityAccMag_Std, 
+        tBodyAccJerkMag_Mean, 
+        tBodyAccJerkMag_Std, 
+        tBodyGyroMag_Mean,
+        tBodyGyroMag_Std,
+        tBodyGyroJerkMag_Mean, 
+        tBodyGyroJerkMag_Std, 
+        fBodyAcc_XMean,
+        fBodyAcc_YMean,
+        fBodyAcc_ZMean,
+        fBodyAcc_XStd,
+        fBodyAcc_YStd,
+        fBodyAcc_ZStd,
+        fBodyAccJerk_XMean, 
+        fBodyAccJerk_YMean, 
+        fBodyAccJerk_ZMean,
+        fBodyAccJerk_XStd, 
+        fBodyAccJerk_YStd,
+        fBodyAccJerk_ZStd, 
+        fBodyGyro_XMean,
+        fBodyGyro_YMean, 
+        fBodyGyro_ZMean, 
+        fBodyGyro_XStd,
+        fBodyGyro_YStd, 
+        fBodyGyro_ZStd,
+        fBodyAccMag_Mean,
+        fBodyAccMag_Std, 
+        fBodyAccJerkMag_Mean,
+        fBodyAccJerkMag_Std, 
+        fBodyGyroMag_Mean,
+        fBodyGyroMag_Std, 
+        fBodyGyroJerkMag_Mean,
+        fBodyGyroJerkMag_Std
